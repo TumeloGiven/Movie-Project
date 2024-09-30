@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+movie-api/node_modules/
+movie-manager/node_modules/
+
+# Build output
+movie-manager/build/
+
+# Logs
+*.log
+
+# Environment variables
+.env
